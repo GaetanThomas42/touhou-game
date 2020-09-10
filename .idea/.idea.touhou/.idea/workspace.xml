@@ -19,6 +19,7 @@
       <list>
         <option value="$PROJECT_DIR$/touhou/Content/Display.spritefont" />
         <option value="$PROJECT_DIR$/touhou/Game1.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -68,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599690506118</updated>
       <workItem from="1599690509572" duration="16601000" />
-      <workItem from="1599719836133" duration="7037000" />
+      <workItem from="1599719836133" duration="7406000" />
     </task>
     <servers />
   </component>
