@@ -8,6 +8,7 @@
       <e p="touhou" t="IncludeRecursive">
         <e p="app.manifest" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Bullet.cs" t="Include" />
         <e p="Content" t="Include">
           <e p="ball.png" t="Include" />
           <e p="bin" t="Include">
@@ -40,6 +41,7 @@
             </e>
           </e>
         </e>
+        <e p="Ennemy.cs" t="Include" />
         <e p="Game1.cs" t="Include" />
         <e p="Icon.bmp" t="Include" />
         <e p="Icon.ico" t="Include" />
@@ -51,6 +53,7 @@
             </e>
           </e>
         </e>
+        <e p="Player.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="touhou.csproj" t="IncludeRecursive" />
       </e>
